@@ -1,11 +1,11 @@
 {
-  "name": "jo-bot",
+  "name": "reyxploit",
   "version": "8.5.4",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "npm i -g pm2 && pm2 node index.js && pm2 save && pm2 logs"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
